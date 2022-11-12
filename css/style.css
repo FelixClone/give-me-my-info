@@ -1,0 +1,57 @@
+body{
+    background: url(../img/pexels-steve-johnson-1509534.jpg);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.text-in-form{
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+}
+#titleOfAllInformation{
+    text-align: center;
+    font-size: 24px;
+    font-weight: bold;
+    border-bottom: 1px solid gray;
+}
+#getAllInformationFromForm{
+    margin-top: 26px;
+    font-size: 18px;
+    font-weight: 100;
+}
+#box{
+    width: 500px;
+    height: 300px;
+    margin: 0 auto;
+    padding: 25px;
+    background-color: rgba(255, 255, 255, 0.8);
+    border-radius: 35px;
+}
+#its-a-form{
+    background-color: rgba(22, 22, 22, 0.5);
+    border-radius: 15px;
+    border: 1px solid rgb(0, 0, 0);
+    width: 302px;
+    height: 140px;
+    margin: 50px auto;
+    padding: 15px;
+}
+#its-a-form:hover{
+    background-color: rgba(22, 22, 22, 0.8);
+}
+
+#name{
+    margin-left: 50px;
+    margin-bottom: 15px;
+}
+#lastname{
+    margin-left: 8px;
+    margin-bottom: 15px;
+}
+#email{
+    margin-left: 51px;
+    margin-bottom: 10px;
+}
+#button{
+    width: 300px;
+    height: 28px;
+}

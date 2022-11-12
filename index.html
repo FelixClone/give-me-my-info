@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Login</title>
+        <link rel="stylesheet" href="css/style.css">
+    </head>
+    <body>
+        <article>
+            <div id="its-a-form">
+                <form>
+                    <label for="name"class="text-in-form">Nome</label>
+                    <input type="text" name="name" id="name"><br>
+                    <label for="lastname"class="text-in-form">Sobrenome</label>
+                    <input type="text" name="lastname" id="lastname"><br>
+                    <label for="email" class="text-in-form">Email</label>
+                    <input type="email" name="email" id="email"><br>
+                    <button onclick="toSend()" type="button" id="button">ENVIAR</button>
+                </form>
+            </div>
+        </article>
+        <div id="box">
+            <div id="titleOfAllInformation"></div>
+            <div id="getAllInformationFromForm"></div>
+        </div>
+
+        <script language="Javascript" src="js/main.js"></script>
+    </body>
+</html>
