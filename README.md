@@ -13,9 +13,8 @@
    <img width="100px" src="img/info.png"/> 
 </div>
 
-Um ou dois parágrafos sobre seu projeto eo que ele faz.
-![]()<!--screenshots-->
 
+<img width="100%" src="img/preview.gif"/>
 
 
 ## Meta
