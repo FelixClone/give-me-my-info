@@ -5,16 +5,18 @@
 </h4>
 
 <p align="center">
-    <a href="#Usage-Example"> Usage Example</a> ⚬
     <a href="#Meta"> Meta</a>
 </p>
 
 <div align="center"> <!--Icon-->
    <img width="100px" src="img/info.png"/> 
 </div>
+<img width="100%" src="img/preview1.png"/>
+<img  width="100%" src="img/preview2.png"/>
 
+<hr>
 
-<img width="100%" src="img/preview.gif"/>
+<img width="75%" src="img/preview.gif"/>
 
 
 ## Meta
